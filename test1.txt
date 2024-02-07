@@ -1,3 +1,5 @@
 Hello! This is GitHub API testing file.
 Second string
+String number 3
+
 // Your changes here
