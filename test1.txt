@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Line 1
 Line 2
 Line 3
 Line 4
-=======
-Line 1
-Line 2
-Line 3
-Line 4
->>>>>>> b8ce1eb0f41d6970590b06331887e426bcce5caa
 Line 5
